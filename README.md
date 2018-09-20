@@ -6,7 +6,7 @@ There's no real purpose to these functions. It's just an exploratory exercise to
 
 ## Supplied Data
 The following csv was supplied from data.medicare.gov
-*Outpatient_Procedures.csv
+* Outpatient_Procedures.csv
 It is a database containing nearly 4,000 hospitals, nationwide, and the number of procedures those hospitals conducted in a given year. The following procedures are valid for these functions: gastrointestinal, eye, nervous system, musculoskeletal, skin, genitourinary, cardiovascular, and respiratory.
 
 ## findoutpatientrank.R
