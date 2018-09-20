@@ -15,3 +15,5 @@ This function takes a hospital name (partial or whole) and a procedure name (giv
 ## outpatientrank.R
 This function takes a procedure name (given above) and a number ("best", "worst", or integer) and returns the hosptial name in that position within the national rank. 
 
+## outpatientprocedures.R
+This function takes a hospital name (partial or whole) and procedure name (given above) and returns the hospital(s) and number of procedures for the given input. If a partial hospital name is given, it will return all with that partial name.
